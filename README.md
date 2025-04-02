@@ -5,7 +5,7 @@ The Car Sales Dashboard is a dynamic and interactive Power BI solution designed 
 This dashboard provides real-time insights into key metrics, enabling the team to make informed, data-driven decisions, monitor sales progress, and uncover growth opportunities.
 
 ### Dashboard Preview
-![Car Sales Dashboard](images/dashboard.png)
+![Car Sales Dashboard](/dashboard.png)
 
 ## Objective
 The objective of the Car Sales Dashboard project is to deliver a comprehensive, user-friendly dashboard in Power BI that displays critical KPIs such as Year-to-Date (YTD) and Month-to-Date (MTD) sales, year-over-year (YOY) growth, and average price analysis. 
